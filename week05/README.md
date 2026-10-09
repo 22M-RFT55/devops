@@ -26,12 +26,12 @@ docker exec
 $ curl localhost:8091
 <h1>Welcome to nginx1</h1>
 ```
-###nginx2
+### nginx2
 ```text
 $ curl localhost:8092
 <h1>Welcome to nginx2</h1>
 ```
-###nginx3
+### nginx3
 ```text
 $ curl localhost:8091
 <h1>Welcome to nginx3</h1>

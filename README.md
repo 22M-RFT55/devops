@@ -9,3 +9,4 @@
 - [3주차 - 셸 스크립팅](./week03/qwen-web/)
 - [4주차 - 네트워크](./week04/)
 - [5주차 - Docker](./week05/)
+- [6주차 - Dockerfile](./week06)

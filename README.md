@@ -10,3 +10,6 @@
 - [4주차 - 네트워크](./week04/)
 - [5주차 - Docker](./week05/)
 - [6주차 - Dockerfile](./week06)
+- [7주차 - Docker compose](./week07)
+- [9주차 - k8s](./week09)
+- [10주차 - k8s 배포와 서비스](./week10)
